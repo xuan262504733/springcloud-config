@@ -1,10 +1,2 @@
-server:
-  tomcat:
-    uri-encoding: UTF-8
-
-spring:
-  http:
-    encoding:
-      force: true
-      charset: UTF-8
-      enabled: true
+config:
+  info: master brance,springcloud-config/config-test.yml version=1
